@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Diff basically is a linux command that compares two different versions
+of the same file.
+All you have to do is call "diff -u old new"
+The diff method will compare it line to line to highlight the differences
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+This means whenever something goes wrong all I need to do is just go back
+to an older version where things were working ok.
+Or, I can just jump between versions to track changes happened overtime especially
+if there is a collaboration between different members changing the same code
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+It gives you the flexibility to save what seems logical and in place
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+it makes sense to track the changes happened across files if they are relatable
+
+How can you use the commands git log and git diff to view the history of files?
+just type them in and spot the differences
+
+How might using version control make you more confident to make changes that could break something?
+Because I can always travel back in time and get the working version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Maybe version control Haha
