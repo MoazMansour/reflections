@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a meta data hidden folder. It also keep an image of
+the current files I have
+
+It doesn't do the initial commit for me tho
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
