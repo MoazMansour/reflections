@@ -6,3 +6,4 @@ the current files I have
 It doesn't do the initial commit for me tho
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+It gives you a staging space to commit whatever changes you need.
